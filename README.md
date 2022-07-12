@@ -15,7 +15,7 @@ limitations under the License.
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkJoij&hide=prs&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkJoij&show_icons=true&theme=github_dark"/>
 <div/>
 
 # Tools
