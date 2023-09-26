@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-<h1 align="center">https://darkjoij.github.io<h/>
+<!-- <h1 align="center">https://darkjoij.github.io<h/> -->
 
 <div align="center">
   <br>
@@ -22,18 +22,18 @@ limitations under the License.
 <div/>
 
 # Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-800f31.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<div align="center">  
+  <img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-A52A2A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <div/>
 
-# Learning
+# Using
 <div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-FF7F50?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-772020?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
 <div/>
 
 # Main languages
